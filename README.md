@@ -5,3 +5,4 @@
 - 📫 How to reach me: bugragokcek1@gmail.com
 - ⚡ Fun fact: "If you don't know something, just google it." 🤪
 
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=bugra-gokcek&layout=compact />
