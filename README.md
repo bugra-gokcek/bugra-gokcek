@@ -7,4 +7,5 @@
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugra-gokcek&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e1bad9ced78d29352ef626?variant=dark)](https://roadmap.sh)
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64e1bad9ced78d29352ef626?variant=dark" alt="roadmap.sh"/></a>
