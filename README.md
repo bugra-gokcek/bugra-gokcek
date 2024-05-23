@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Javascript, NodeJS, Docker, Data encryption algorithms.
+- 🌱 I’m currently learning Rust.
 - 🏋 I'm interested in Mobile Device Security, Android Debugging, Shell Scripting, IoT Devices, Embedded Systems, Image Process Apps, Any Type of Algorithms which need solutions.  
 - 📫 How to reach me: bugragokcek1@gmail.com
 - Fun fact: "If you don't know something, just google it."
