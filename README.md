@@ -5,8 +5,3 @@
 - 🏋 I'm interested in ANYTHING RELATED TO LINUX, Mobile Device Security, Networking, Shell Scripting, IoT Devices, Embedded Systems, any type of algorithms which need solutions.  
 - 📫 How to reach me: bugragokcek1@gmail.com
 - Fun fact: "If you don't know something, just google it."
-
-<p float="center">
-    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64e1bad9ced78d29352ef626?variant=dark&roadmaps=devops%2Clinux%2Cdocker%2Caws" alt="roadmap.sh"/></a>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugra-gokcek&layout=donut&theme=dark" alt="My Top Langs" />
-</p>
